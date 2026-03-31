@@ -37,6 +37,7 @@ status: Open to Work & Collaboration
 currently_building:
   - 🔤 Code Translator
   - 🏗️  Nxt_Build
+  - 🏗️  AI-interviewr
 
 currently_learning:
   - ☁️  Google Cloud Platform
